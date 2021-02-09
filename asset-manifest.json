@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Monosters-Rolodex/static/css/main.f4a9ad54.chunk.css",
+    "main.js": "/Monosters-Rolodex/static/js/main.11489f4a.chunk.js",
+    "main.js.map": "/Monosters-Rolodex/static/js/main.11489f4a.chunk.js.map",
+    "runtime-main.js": "/Monosters-Rolodex/static/js/runtime-main.13d9d853.js",
+    "runtime-main.js.map": "/Monosters-Rolodex/static/js/runtime-main.13d9d853.js.map",
+    "static/js/2.5fe91db3.chunk.js": "/Monosters-Rolodex/static/js/2.5fe91db3.chunk.js",
+    "static/js/2.5fe91db3.chunk.js.map": "/Monosters-Rolodex/static/js/2.5fe91db3.chunk.js.map",
+    "index.html": "/Monosters-Rolodex/index.html",
+    "static/css/main.f4a9ad54.chunk.css.map": "/Monosters-Rolodex/static/css/main.f4a9ad54.chunk.css.map",
+    "static/js/2.5fe91db3.chunk.js.LICENSE.txt": "/Monosters-Rolodex/static/js/2.5fe91db3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13d9d853.js",
+    "static/js/2.5fe91db3.chunk.js",
+    "static/css/main.f4a9ad54.chunk.css",
+    "static/js/main.11489f4a.chunk.js"
+  ]
+}
